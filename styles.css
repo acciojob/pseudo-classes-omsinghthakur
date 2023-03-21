@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
    p:last-child { 
-        color:red; 
+        color:rgb(255, 0, 0);  
       }  
    li:nth-child(1) {
         background-color: white;
@@ -25,5 +25,5 @@
 	margin:-10px; 
 }
 body{
-	background:skyblue;
+	background:rgb(135, 206, 235); 
 }
